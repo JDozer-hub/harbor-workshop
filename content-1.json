@@ -1,0 +1,201 @@
+{"posts":[
+{
+ "slug":"re-tile-a-small-bathroom",
+ "title":"What you actually need to re-tile a small bathroom",
+ "summary":"A complete, itemised parts list for a 5 m² bathroom floor with walls to 1.2 m — including the consumables everyone forgets.",
+ "intro":[
+  "Most first-time tilers make the same trip twice: once for the tiles, once for everything they forgot. This is the whole list, in the order you need it, sized for a 5 m² floor with walls tiled to 1.2 m.",
+  "The costly mistake is not the tile design — it is cheap adhesive and the wrong grout in a wet area. That is the one place to spend the extra."
+ ],
+ "list_title":"1. Tiles and trim",
+ "list_cols":["Item","Qty","Why / note","Where"],
+ "list":[
+  ["Floor tile, 300x300 porcelain","6 boxes","5 m² plus 10% waste; a box typically covers ~0.99 m²","<a href=\"https://www.homedepot.com/s/porcelain%20floor%20tile%2030cm\" rel=\"nofollow\">Home Depot</a>"],
+  ["Wall tile, 200x100 ceramic","9 boxes","Walls to 1.2 m minus the door and any window opening","<a href=\"https://www.homedepot.com/s/ceramic%20wall%20tile%2020x10\" rel=\"nofollow\">Home Depot</a>"],
+  ["Bullnose / trim tile","6 lengths","One per wall run plus the doorway edge","<a href=\"https://www.lowes.com/search?searchTerm=bullnose%20tile%20trim\" rel=\"nofollow\">Lowe's</a>"],
+  ["Tile spacers, 3 mm","1 pack","Smaller joints need more spacers than you think","<a href=\"https://www.acehardware.com/search?query=tile%20spacers%203mm\" rel=\"nofollow\">Ace</a>"]
+ ],
+ "list2":{
+  "title":"2. Fixing and sealing — the part people forget",
+  "cols":["Item","Qty","Why / note","Where"],
+  "rows":[
+   ["Tile adhesive, powdered (not ready-mixed)","3 bags","20 kg covers roughly 5 m² at a 3 mm bed","<a href=\"https://www.homedepot.com/s/tile%20adhesive%2020kg\" rel=\"nofollow\">Home Depot</a>"],
+   ["Notched trowel, 6 mm","1","The rib height sets your adhesive coverage — a 6 mm notch pairs with a 3 mm bed","<a href=\"https://www.acehardware.com/search?query=notched%20trowel%206mm\" rel=\"nofollow\">Ace</a>"],
+   ["Mould-resistant grout","2 bags","Standard grout in a shower is why jobs fail early","<a href=\"https://www.homedepot.com/s/mould%20resistant%20grout\" rel=\"nofollow\">Home Depot</a>"],
+   ["Sanitary-grade silicone sealant","2 tubes","Only for joints that move: corners, tray edges, pipe collars","<a href=\"https://www.lowes.com/search?searchTerm=sanitary%20silicone%20sealant\" rel=\"nofollow\">Lowe's</a>"],
+   ["Wet-area tanking kit","1","Non-negotiable around a shower or over a timber floor","<a href=\"https://www.homedepot.com/s/wet%20area%20tanking%20kit\" rel=\"nofollow\">Home Depot</a>"],
+   ["Self-levelling compound","1 bag","Only if the floor is out by more than 3 mm across the room","<a href=\"https://www.walmart.com/search?q=self%20levelling%20compound\" rel=\"nofollow\">Walmart</a>"],
+   ["Dust sheets and masking tape","1 each","Protect the bath, the basin and the door","<a href=\"https://www.walmart.com/search?q=dust%20sheet%20masking%20tape\" rel=\"nofollow\">Walmart</a>"]
+  ]},
+ "tiers":[
+  {"label":"Cheapest that works","text":"Budget adhesive and a basic spacer pack. Fine on a dry floor area — accept that you may lose a bag to waste.","retailer":"Walmart","url":"https://www.walmart.com/search?q=tile%20adhesive%20grout"},
+  {"label":"Buy the good one","text":"Powdered adhesive and mould-resistant grout. This is where a tiling job is won or lost; the tile pattern is the cheap part.","retailer":"Home Depot","url":"https://www.homedepot.com/s/mould%20resistant%20grout"}
+ ],
+ "tools":["Drill with a mixing paddle","Spirit level (600 mm is enough)","Tape measure","Bucket","Grout sponge","Tile cutter or wet saw","Utility knife","Knee pads","Gloves"],
+ "skip":[
+  {"what":"Ready-mixed adhesive for a shower","why":"It cures by drying, not by chemical set. In a permanently damp wet area it can stay soft and let tiles move. Powdered adhesive is mixed with water and sets hard — it costs about the same."},
+  {"what":"A full wet-saw for one small bathroom","why":"Rent it or borrow it. Buying a saw you will use once can cost more than the tiles. A manual cutter plus a diamond file handles straight cuts and the few awkward ones."},
+  {"what":"Mosaic border strips bought at the same time as the tile","why":"They lock you into the layout before you have measured your actual cuts. Lay the field tile first, then decide whether an accent is worth the extra cutting."}
+ ],
+ "maths":[
+  "Floor: the stated room is 5 m². Tile is bought in boxes covering about 0.99 m², so 5 ÷ 0.99 = 5.05 boxes, rounded up to 6 to absorb cuts and breakages.",
+  "Wall: two long walls at 2.5 m and two short at 2 m, tiled to 1.2 m high, is (2.5+2.5+2+2) × 1.2 = 10.8 m², minus roughly 1.8 m² for the door and window, giving about 9 m². At about 1 m² per box that is 9 boxes before waste.",
+  "Adhesive: a 20 kg bag at a 3 mm bed covers roughly 5 m², so a 9 m² wall plus a 5 m² floor needs about 3 bags."
+ ],
+ "outro":"Quantities assume the room dimensions stated in the opening paragraph. Recalculate from your own measurements before ordering.",
+ "date":"2026-10-10"
+},
+{
+ "slug":"fit-a-floating-shelf",
+ "title":"What you need to fit a floating shelf that does not sag",
+ "summary":"The complete list for hanging a floating shelf into drywall or masonry, and the fixing choice that decides whether it stays level.",
+ "intro":[
+  "A floating shelf has no visible bracket, so all the load goes through the fixing. That is the whole job: pick the right fixing for the wall, and the rest is measuring.",
+  "The common failure is not the shelf — it is a hollow-wall fixing rated for a picture frame carrying a shelf loaded with books."
+ ],
+ "list_title":"The full list",
+ "list_cols":["Item","Qty","Why / note","Where"],
+ "list":[
+  ["Floating shelf with concealed bracket","1","Most kits include the bracket; check before buying separately","<a href=\"https://www.homedepot.com/s/floating%20shelf%20concealed%20bracket\" rel=\"nofollow\">Home Depot</a>"],
+  ["Heavy-duty hollow-wall anchors","4","For drywall: a toggle or strap type rated well above the shelf load","<a href=\"https://www.homedepot.com/s/heavy%20duty%20hollow%20wall%20anchor\" rel=\"nofollow\">Home Depot</a>"],
+  ["Masonry plugs and screws","4","Only if the wall is brick or block — different fixing entirely","<a href=\"https://www.lowes.com/search?searchTerm=masonry%20plug%20screw\" rel=\"nofollow\">Lowe's</a>"],
+  ["Stud finder with a deep-scan mode","1","You want to know where the studs are before you choose the fixing","<a href=\"https://www.acehardware.com/search?query=stud%20finder%20deep%20scan\" rel=\"nofollow\">Ace</a>"],
+  ["Spirit level, 600 mm","1","A 300 mm level is too short to prove a shelf is level","<a href=\"https://www.walmart.com/search?q=spirit%20level%20600mm\" rel=\"nofollow\">Walmart</a>"],
+  ["Masking tape","1","Mark the drill line and catch some of the dust","<a href=\"https://www.walmart.com/search?q=masking%20tape\" rel=\"nofollow\">Walmart</a>"],
+  ["Vacuum or dust sheet","1","Drilling drywall makes far more mess than expected","<a href=\"https://www.homedepot.com/s/dust%20sheet\" rel=\"nofollow\">Home Depot</a>"]
+ ],
+ "tiers":[
+  {"label":"Cheapest that works","text":"A basic anchor kit and a short level. Acceptable for a light shelf holding a plant or two.","retailer":"Walmart","url":"https://www.walmart.com/search?q=hollow%20wall%20anchors"},
+  {"label":"Buy the good one","text":"Toggle anchors rated for a multiple of the expected load, and a long level. This is what keeps a loaded shelf off the floor.","retailer":"Home Depot","url":"https://www.homedepot.com/s/heavy%20duty%20toggle%20anchor"}
+ ],
+ "tools":["Drill with masonry and wood bits","Spirit level","Pencil","Tape measure","Screwdriver set","Small vacuum or brush"],
+ "skip":[
+  {"what":"Plastic expanding plugs in hollow drywall","why":"They grip a thin skin of paper-faced plasterboard. Under a shelf carrying real weight they pull through. Toggle or strap anchors spread the load behind the board."},
+  {"what":"A shelf longer than about 1.2 m with only two fixing points","why":"Unscrewed length sags in the middle. Long spans need either three fixing points or a visibly thicker shelf — the bracket kit usually tells you which."},
+  {"what":"Adhesive-only mounting","why":"Construction adhesive on paint is a wall-damage problem the day you remove it, and it is not a substitute for a mechanical fixing."}
+ ],
+ "maths":[
+  "Find the studs first: standard stud spacing is 400 mm or 600 mm depending on the build. If two fixing points land on studs, you need no anchors at all and the shelf is far stronger.",
+  "Otherwise, allow for the worst case. A shelf holding 10 kg of books is 10 kg of pull-out force on the top fixing plus leverage from the shelf depth — so choose an anchor rated well above the load, not at it."
+ ],
+ "outro":"Load ratings on anchor packaging assume sound, correctly installed substrate. If the wall is crumbly or paper-faced, use a different fixing or a different wall.",
+ "date":"2026-10-10"
+},
+{
+ "slug":"replace-a-kitchen-tap",
+ "title":"What you need to replace a kitchen tap (and the two bits that stop leaks)",
+ "summary":"Isolation, seals and a basin wrench: the complete list for swapping a kitchen mixer tap without flooding the kitchen.",
+ "intro":[
+  "Swapping a tap is a small job with one big risk: water everywhere. The job is really three tasks — isolate the supply, undo the old tap, fit the new one with the right seals.",
+  "The mistake is starting before the isolation valves actually hold. They often do not, and that is when a small job becomes a floor-drying job."
+ ],
+ "list_title":"The full list",
+ "list_cols":["Item","Qty","Why / note","Where"],
+ "list":[
+  ["Replacement mixer tap","1","Check the existing hole diameter and the deck thickness before buying","<a href=\"https://www.homedepot.com/s/kitchen%20mixer%20tap\" rel=\"nofollow\">Home Depot</a>"],
+  ["Flexible tap tails","2","Match the thread to your existing pipework; usually included with a new tap","<a href=\"https://www.lowes.com/search?searchTerm=flexible%20tap%20tails\" rel=\"nofollow\">Lowe's</a>"],
+  ["Fibre or rubber washers","4","Top and bottom of each tail — the flat washer is what actually seals","<a href=\"https://www.acehardware.com/search?query=tap%20washer%20fibre\" rel=\"nofollow\">Ace</a>"],
+  ["PTFE tape","1 roll","For threaded joints only. It is not a fix for a cross-threaded nut","<a href=\"https://www.homedepot.com/s/ptfe%20tape\" rel=\"nofollow\">Home Depot</a>"],
+  ["Basin wrench","1","There is no room for a normal spanner behind a sink","<a href=\"https://www.homedepot.com/s/basin%20wrench\" rel=\"nofollow\">Home Depot</a>"],
+  ["Silicone sealant, clear","1 tube","Seals the tap base to the sink deck if there is no gasket","<a href=\"https://www.walmart.com/search?q=clear%20silicone%20sealant\" rel=\"nofollow\">Walmart</a>"],
+  ["Old towels and a bucket","2 towels","You will spill water. Plan for it rather than mopping it","<a href=\"https://www.walmart.com/search?q=old%20towels%20bucket\" rel=\"nofollow\">Walmart</a>"]
+ ],
+ "tiers":[
+  {"label":"Cheapest that works","text":"A basic tap with an included fitting kit and a cheap basin wrench. Fine if the existing pipework is standard and reachable.","retailer":"Walmart","url":"https://www.walmart.com/search?q=kitchen%20mixer%20tap"},
+  {"label":"Buy the good one","text":"A tap with a ceramic cartridge and metal tails, plus a proper basin wrench. Cartridges are the part that fails first, and metal tails cross-thread far less often than plastic.","retailer":"Home Depot","url":"https://www.homedepot.com/s/kitchen%20tap%20ceramic%20cartridge"}
+ ],
+ "tools":["Adjustable spanner","Basin wrench","Screwdriver set","Torch","Bucket and towels","Gloves"],
+ "skip":[
+  {"what":"Replacing the tap without checking the isolation valves first","why":"Old isolation valves frequently will not fully shut. Test them, and if they weep or will not close, turn the water off at the mains stopcock instead — before you undo anything."},
+  {"what":"PTFE tape on a compression fitting","why":"PTFE is for threaded joints. On a compression fitting the olive makes the seal; wrapping tape around it usually causes leaks rather than preventing them."},
+  {"what":"Over-tightening the tail nuts to stop a drip","why":"It crushes the washer and makes the leak worse. If it drips, undo it, check the washer is seated flat and square, then tighten firmly but not violently."}
+ ],
+ "maths":[
+  "Measure before buying: the hole diameter in the sink deck is usually 35 mm, but it is worth checking, because a tap that does not fit the existing hole turns a 30-minute job into a sink-replacement job.",
+  "Check the reach: measure from the back of the sink to the front edge. A spout that is too short means you will be fighting the sink every time you fill a pan."
+ ],
+ "outro":"If any isolation valve does not hold, stop and isolate at the mains. A tap change is not worth a flooded kitchen floor.",
+ "date":"2026-10-10"
+},
+{
+ "slug":"paint-a-room-properly",
+ "title":"What you need to paint a room properly (not just quickly)",
+ "summary":"The itemised list for painting a standard room, including the prep materials that decide whether the finish lasts.",
+ "intro":[
+  "Painting is 70% preparation and 30% paint. If you buy only paint and a roller, you will get a finish that shows every flaw and peels at the edges within a year.",
+  "This list is sized for a typical 4 m × 4 m room with a 2.4 m ceiling — two coats, walls and ceiling, one door and one window frame."
+ ],
+ "list_title":"1. Paint and primer",
+ "list_cols":["Item","Qty","Why / note","Where"],
+ "list":[
+  ["Primer / undercoat","1 tin (2.5 L)","Seals bare plaster and stops it drinking your topcoat","<a href=\"https://www.homedepot.com/s/interior%20primer%202.5l\" rel=\"nofollow\">Home Depot</a>"],
+  ["Ceiling paint, matt white","5 L","Ceilings take more paint than people expect","<a href=\"https://www.homedepot.com/s/matt%20emulsion%20ceiling%20white\" rel=\"nofollow\">Home Depot</a>"],
+  ["Wall paint, your colour","10 L","Two coats on 38 m² of wall","<a href=\"https://www.lowes.com/search?searchTerm=interior%20wall%20paint%2010l\" rel=\"nofollow\">Lowe's</a>"],
+  ["Wood and metal paint, satin","750 ml","For the door and window frame","<a href=\"https://www.acehardware.com/search?query=satin%20wood%20metal%20paint\" rel=\"nofollow\">Ace</a>"]
+ ],
+ "list2":{
+  "title":"2. Prep — the part that decides how long it lasts",
+  "cols":["Item","Qty","Why / note","Where"],
+  "rows":[
+   ["Filler and a flexible scraper","1 each","Every screw hole and crack shows under a fresh coat","<a href=\"https://www.homedepot.com/s/filler%20flexible%20scraper\" rel=\"nofollow\">Home Depot</a>"],
+   ["Sanding block, medium and fine","2","Feather the filled edges or you will see ridges","<a href=\"https://www.acehardware.com/search?query=sanding%20block%20medium%20fine\" rel=\"nofollow\">Ace</a>"],
+   ["Masking tape, low-tack","2 rolls","Edges and skirting. Low-tack pulls paint less when removed","<a href=\"https://www.homedepot.com/s/low%20tack%20masking%20tape\" rel=\"nofollow\">Home Depot</a>"],
+   ["Dust sheets","3","One for the floor, two for furniture","<a href=\"https://www.walmart.com/search?q=dust%20sheets\" rel=\"nofollow\">Walmart</a>"],
+   ["Sugar soap or degreaser","1","Kitchen walls and around handles are greasy; paint will not stick to grease","<a href=\"https://www.walmart.com/search?q=sugar%20soap%20degreaser\" rel=\"nofollow\">Walmart</a>"],
+   ["Filling knife and caulk","1 each","Caulk the gap between skirting and wall — it is the difference between tidy and obviously amateur","<a href=\"https://www.lowes.com/search?searchTerm=decorators%20caulk%20filling%20knife\" rel=\"nofollow\">Lowe's</a>"]
+  ]},
+ "tiers":[
+  {"label":"Cheapest that works","text":"Own-brand paint, foam rollers and a basic brush set. Honest for a rental or a spare room you are turning over.","retailer":"Walmart","url":"https://www.walmart.com/search?q=interior%20emulsion%20roller%20set"},
+  {"label":"Buy the good one","text":"A washable finish with a proper synthetic brush and a decent roller sleeve. Cheap sleeves shed fibres into the finish and cheap brushes leave brush marks in the cutting-in.","retailer":"Home Depot","url":"https://www.homedepot.com/s/interior%20paint%20roller%20sleeve"}
+ ],
+ "tools":["Roller frame and tray","Synthetic brush set (including a 25 mm angled brush)","Extension pole","Step ladder","Paint kettle","Rags","Gloves"],
+ "skip":[
+  {"what":"Painting over a damp or stained patch without a stain block","why":"Water stains and old smoke marks bleed through ordinary emulsion within days. A stain-blocking primer costs one extra tin and saves redoing the wall."},
+  {"what":"Caulking before filling","why":"Caulk over a gap that should be filled shrinks as it cures and opens up again. Fill large gaps first, wait for the filler to set, then caulk the fine line."},
+  {"what":"Buying paint by number of coats on the label","why":"Coverage depends on what is under it. Going from a dark colour to a light one, or onto bare plaster, will take more coats than the tin suggests — buy one extra litre."}
+ ],
+ "maths":[
+  "Wall area: a 4 m × 4 m room with a 2.4 m ceiling is 16 m of wall run × 2.4 m high, about 38 m², minus roughly 4 m² for the door and window, giving about 34 m².",
+  "Two coats on 34 m² is about 68 m² of coverage. Most interior emulsions quote roughly 12 m² per litre per coat, so 68 ÷ 12 ≈ 5.7 litres of topcoat, which is why a 10 L tin leaves headroom for a third coat on the feature wall.",
+  "Ceilings: 16 m² × 2 coats = 32 m², about 2.7 litres, so a 5 L tin covers the ceiling with room for the edges."
+ ],
+ "outro":"Relative humidity and temperature change drying times significantly. Follow the tin rather than a rule of thumb.",
+ "date":"2026-10-10"
+},
+{
+ "slug":"build-a-raised-garden-bed",
+ "title":"What you need to build a raised garden bed that lasts",
+ "summary":"Timber, lining and drainage for a 1.2 m x 2.4 m raised bed, sized so the boards actually line up with standard lengths.",
+ "intro":[
+  "A raised bed is four boards, a base and something to keep the soil in. It goes wrong in two ways: timber that rots within two seasons, and drainage that turns the bed into a bog.",
+  "This list is sized for a 1.2 m × 2.4 m bed at 300 mm high, so you are cutting as little as possible."
+ ],
+ "list_title":"The full list",
+ "list_cols":["Item","Qty","Why / note","Where"],
+ "list":[
+  ["Treated timber board, 2400 x 200 x 38 mm","8","Four per 300 mm of height on two courses; standard length avoids most cuts","<a href=\"https://www.homedepot.com/s/treated%20timber%202400%20x%20200\" rel=\"nofollow\">Home Depot</a>"],
+  ["Corner posts, 75 x 75 x 600 mm","4","Holds the corners square; screw into these rather than board-to-board","<a href=\"https://www.lowes.com/search?searchTerm=timber%20post%2075mm\" rel=\"nofollow\">Lowe's</a>"],
+  ["Exterior wood screws, 75 mm","60","Exterior-rated; interior screws rust through in damp soil contact","<a href=\"https://www.acehardware.com/search?query=exterior%20wood%20screws%2075mm\" rel=\"nofollow\">Ace</a>"],
+  ["Landscape fabric / lining","4 m","Keeps soil in and weeds out, but must let water through","<a href=\"https://www.homedepot.com/s/landscape%20fabric\" rel=\"nofollow\">Home Depot</a>"],
+  ["Gravel or coarse bark","4 bags","300 mm of drainage in the base — the difference between a bed and a bog","<a href=\"https://www.walmart.com/search?q=horticultural%20gravel%20drainage\" rel=\"nofollow\">Walmart</a>"],
+  ["Topsoil / compost mix","about 600 L","Roughly 0.65 m³ to fill the bed to within 50 mm of the top","<a href=\"https://www.homedepot.com/s/topsoil%20compost%20mix\" rel=\"nofollow\">Home Depot</a>"],
+  ["Staple gun and staples","1","For fixing the liner","<a href=\"https://www.walmart.com/search?q=staple%20gun%20staples\" rel=\"nofollow\">Walmart</a>"]
+ ],
+ "tiers":[
+  {"label":"Cheapest that works","text":"Standard treated boards and a gravel base. Accept that the cheapest timber may need replacing around year three or four.","retailer":"Walmart","url":"https://www.walmart.com/search?q=raised%20bed%20timber%20kit"},
+  {"label":"Buy the good one","text":"Thicker boards and proper 75 mm corner posts, screwed rather than nailed. A bed that stays square lasts several seasons longer than one that racks out of shape.","retailer":"Home Depot","url":"https://www.homedepot.com/s/raised%20garden%20bed%20timber"}
+ ],
+ "tools":["Drill/driver","Circular saw or handsaw","Spirit level","Tape measure","Mallet","Wheelbarrow","Gloves"],
+ "skip":[
+  {"what":"Railway sleepers for a vegetable bed","why":"Old sleepers can be contaminated with creosote or oil. For anything you plan to eat, use timber that is sold for garden use and confirm it is safe for food-growing."},
+  {"what":"A solid plastic sheet as the base","why":"It holds water. The base layer is for drainage, so it must be open — gravel or coarse bark, not a sealed membrane."},
+  {"what":"Filling the bed with 100% cheap topsoil","why":"Cheap topsoil compacts into something closer to brick. Mix in compost so it holds moisture and stays workable."}
+ ],
+ "maths":[
+  "Perimeter: a 1.2 m × 2.4 m bed is (1.2 + 2.4) × 2 = 7.2 m of board run per course. At 2400 mm per board, each course of the two long sides and two short sides takes 4 boards, so 300 mm of height is one course and 8 boards gives two courses.",
+  "Volume: 1.2 × 2.4 × 0.3 = 0.864 m³ total. Allowing 300 mm of drainage at the base and leaving a 50 mm gap at the top, the soil volume is about 1.2 × 2.4 × 0.2 = 0.58 m³, roughly 600 litres of fill."
+ ],
+ "outro":"Fill volumes are approximate because topsoil and compost settle after the first watering. Add a little at a time and top up after a week.",
+ "date":"2026-10-10"
+}
+]}

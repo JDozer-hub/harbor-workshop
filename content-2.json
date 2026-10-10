@@ -1,0 +1,179 @@
+{"posts":[
+{
+ "slug":"install-a-dimmer-switch",
+ "title":"What you need to install a dimmer switch (and when to call an electrician)",
+ "summary":"The parts and checks for swapping a standard light switch for a dimmer, including the compatibility trap that makes lamps buzz.",
+ "intro":[
+  "A dimmer swap is one of the simplest electrical jobs there is: isolate the circuit, change the switch, put it back. It is also one of the easiest to get wrong, because the dimmer and the lamps have to be compatible.",
+  "Before anything else: in many places this is notifiable work, or must be done by a qualified electrician. Check your local rules. Nothing here is a substitute for isolating the circuit properly and testing that it is dead."
+ ],
+ "list_title":"The full list",
+ "list_cols":["Item","Qty","Why / note","Where"],
+ "list":[
+  ["Dimmer switch, matched to your lamp type","1","LED, halogen and incandescent need different dimmers — buy for the lamps you actually have","<a href=\"https://www.homedepot.com/s/led%20dimmer%20switch\" rel=\"nofollow\">Home Depot</a>"],
+  ["Voltage tester / non-contact pen","1","Prove the circuit is dead before you touch it. This is not optional","<a href=\"https://www.homedepot.com/s/voltage%20tester%20pen\" rel=\"nofollow\">Home Depot</a>"],
+  ["Screwdriver set, insulated","1","Insulated handles; a live conductor can still be present in a two-way circuit","<a href=\"https://www.lowes.com/search?searchTerm=insulated%20screwdriver%20set\" rel=\"nofollow\">Lowe's</a>"],
+  ["Wire strippers","1","Old switch wires are often nicked and need trimming back","<a href=\"https://www.acehardware.com/search?query=wire%20strippers\" rel=\"nofollow\">Ace</a>"],
+  ["Connector blocks or lever connectors","1 pack","If the existing wires are too short to reach the new terminals","<a href=\"https://www.homedepot.com/s/lever%20wire%20connectors\" rel=\"nofollow\">Home Depot</a>"],
+  ["Wall plate / faceplate","1","Match the finish and the fixings to the dimmer","<a href=\"https://www.walmart.com/search?q=light%20switch%20faceplate\" rel=\"nofollow\">Walmart</a>"]
+ ],
+ "tiers":[
+  {"label":"Cheapest that works","text":"A basic trailing-edge dimmer and a standard faceplate. Fine for a single incandescent or a matched dimmable LED.","retailer":"Walmart","url":"https://www.walmart.com/search?q=dimmer%20switch"},
+  {"label":"Buy the good one","text":"A trailing-edge dimmer rated for the total LED load on the circuit, with a proper metal faceplate. Cheap leading-edge dimmers are the ones that buzz and flicker with LED lamps.","retailer":"Home Depot","url":"https://www.homedepot.com/s/trailing%20edge%20led%20dimmer"}
+ ],
+ "tools":["Insulated screwdriver set","Voltage tester","Wire strippers","Torch","Small container for the screws"],
+ "skip":[
+  {"what":"A dimmer rated for the wrong load","why":"Dimmers have a minimum and maximum load. Fifteen low-wattage LED lamps can sit below the minimum, so the dimmer flickers or drops out entirely. Add up the actual wattage on the circuit before choosing."},
+  {"what":"Dimming non-dimmable LED lamps","why":"It is not a dimmer fault. Non-dimmable drivers buzz, flicker or fail early. Check the lamp packaging says dimmable before assuming the switch is broken."},
+  {"what":"Working on a circuit you have not proved dead","why":"Switching the breaker off is not proof. Test at the terminals with a known-good tester. In a two-way circuit another conductor can still be live."}
+ ],
+ "maths":[
+  "Add up the load before buying: eight 6 W LED lamps is 48 W total. A dimmer with a 5 W minimum and a 100 W LED maximum sits comfortably; one with a 20 W minimum would not.",
+  "Check box depth, not just the switch: a deeper dimmer body may not fit a shallow back box, which is the most common reason a swap stalls halfway."
+ ],
+ "outro":"If the wiring is aluminium, the box is full of unknown joints, or your local rules require a certificate, use a qualified electrician. This is the one page on this site where doing it yourself has a legal edge as well as a safety one.",
+ "date":"2026-10-10"
+},
+{
+ "slug":"hang-a-heavy-mirror-on-drywall",
+ "title":"What you need to hang a heavy mirror on drywall",
+ "summary":"The complete list for hanging a mirror over 10 kg on plasterboard, and why the fixing matters more than the hook.",
+ "intro":[
+  "A heavy mirror is a static load with a lever arm. That combination is what pulls fixings out of drywall: the weight is not the problem, the weight times the distance from the wall is.",
+  "The list below assumes a mirror of roughly 10-15 kg on plasterboard, with the option of a stud if one happens to be under the hang point."
+ ],
+ "list_title":"The full list",
+ "list_cols":["Item","Qty","Why / note","Where"],
+ "list":[
+  ["Heavy-duty toggle anchors","2","Rated well above the mirror weight; spreads load behind the board","<a href=\"https://www.homedepot.com/s/heavy%20duty%20toggle%20anchor\" rel=\"nofollow\">Home Depot</a>"],
+  ["Mirror clips or a French cleat","1 set","A cleat spreads the load across the mirror back instead of two points","<a href=\"https://www.homedepot.com/s/mirror%20french%20cleat\" rel=\"nofollow\">Home Depot</a>"],
+  ["Felt pads","4","Stops the mirror rattling against the wall and protects the plaster","<a href=\"https://www.walmart.com/search?q=felt%20pads\" rel=\"nofollow\">Walmart</a>"],
+  ["Spirit level, 600 mm","1","Mirrors are the least forgiving thing to hang out of level","<a href=\"https://www.lowes.com/search?searchTerm=spirit%20level%20600mm\" rel=\"nofollow\">Lowe's</a>"],
+  ["Stud finder","1","If you can hit a stud, do — no anchor needed","<a href=\"https://www.acehardware.com/search?query=stud%20finder\" rel=\"nofollow\">Ace</a>"],
+  ["Pencil and masking tape","1 each","Mark the line, and tape the mirror edge as a drilling guide","<a href=\"https://www.walmart.com/search?q=pencil%20masking%20tape\" rel=\"nofollow\">Walmart</a>"]
+ ],
+ "tiers":[
+  {"label":"Cheapest that works","text":"A basic toggle anchor set and a simple hook. Only if the mirror sits close to the wall and is under about 10 kg.","retailer":"Walmart","url":"https://www.walmart.com/search?q=heavy%20duty%20wall%20hooks"},
+  {"label":"Buy the good one","text":"Toggle anchors plus a French cleat. The cleat converts two point loads into a distributed one across the back of the mirror — the single change that makes a heavy mirror safe.","retailer":"Home Depot","url":"https://www.homedepot.com/s/french%20cleat"}
+ ],
+ "tools":["Drill","Spirit level","Stud finder","Screwdriver","Pencil","Small vacuum"],
+ "skip":[
+  {"what":"Picture wire on a heavy mirror","why":"Wire reduces the rated capacity of a fixing dramatically and lets the mirror shift. A cleat or direct-fixed clips are the right answer above a few kilos."},
+  {"what":"Plastic plugs in plasterboard","why":"Same failure as with shelves: they grip the paper face, not the board. A 15 kg mirror is well outside what they hold."},
+  {"what":"Hanging on a stud only if it lands off-centre","why":"Hitting a stud 200 mm off-centre to save an anchor is a bad trade. Use a proper anchor and hang the mirror where it belongs."}
+ ],
+ "maths":[
+  "Two toggle anchors rated at 25 kg each give a nominal 50 kg capacity for a 15 kg mirror — a safety factor of well over three. That margin matters because drywall strength varies and the load is applied through a lever.",
+  "Use the widest horizontal spacing the mirror back allows. Doubling the spacing halves the pull-out force on each fixing."
+ ],
+ "outro":"If the wall is lath and plaster rather than modern plasterboard, treat it as a different material entirely — it crumbles around a fixing and needs a different anchor.",
+ "date":"2026-10-10"
+},
+{
+ "slug":"seal-a-leaking-shower",
+ "title":"What you need to seal a leaking shower (and how to find the actual leak)",
+ "summary":"The list for re-sealing a shower tray and enclosure, plus the order of work that stops you sealing the wrong joint.",
+ "intro":[
+  "Most shower leaks that look like tray leaks are actually a failed joint higher up, or a blocked drain channel pushing water sideways. Seal the wrong thing and the leak comes back in a fortnight.",
+  "The list below covers the honest case: cutting out old sealant, drying properly, and re-sealing the joints that move."
+ ],
+ "list_title":"The full list",
+ "list_cols":["Item","Qty","Why / note","Where"],
+ "list":[
+  ["Sanitary-grade silicone sealant","2 tubes","Fungicidal and flexible. Standard sealant grows mould in a wet area","<a href=\"https://www.homedepot.com/s/sanitary%20silicone%20sealant\" rel=\"nofollow\">Home Depot</a>"],
+  ["Silicone remover or a sealant removal tool","1","Cutting out the old bead completely is most of the job","<a href=\"https://www.lowes.com/search?searchTerm=silicone%20remover\" rel=\"nofollow\">Lowe's</a>"],
+  ["Smoothing tool or profiling kit","1","A consistent bead seals; a smeared one does not","<a href=\"https://www.acehardware.com/search?query=silicone%20profiling%20tool\" rel=\"nofollow\">Ace</a>"],
+  ["Isopropyl alcohol and lint-free cloths","1 each","Surfaces must be clean and dry or sealant will not bond","<a href=\"https://www.homedepot.com/s/isopropyl%20alcohol%20lint%20free%20cloth\" rel=\"nofollow\">Home Depot</a>"],
+  ["Grout rake and replacement grout","1 each","Cracked grout in the enclosure is often the real leak path","<a href=\"https://www.walmart.com/search?q=grout%20rake%20grout\" rel=\"nofollow\">Walmart</a>"],
+  ["Drain cleaning tool","1","A partially blocked drain channel lets water pool and find a way out","<a href=\"https://www.walmart.com/search?q=drain%20cleaning%20tool\" rel=\"nofollow\">Walmart</a>"]
+ ],
+ "tiers":[
+  {"label":"Cheapest that works","text":"Own-brand sanitary sealant and a basic smoothing tool. Acceptable for a rental repair you expect to redo.","retailer":"Walmart","url":"https://www.walmart.com/search?q=sanitary%20silicone%20sealant"},
+  {"label":"Buy the good one","text":"A high-movement sealant designed for joints that move, plus a profiling kit. Shower tray joints move; a rigid sealant cracks.","retailer":"Home Depot","url":"https://www.homedepot.com/s/high%20movement%20silicone%20shower"}
+ ],
+ "tools":["Utility knife","Scraper","Spray bottle","Cloths","Caulk gun","Gloves"],
+ "skip":[
+  {"what":"Sealing over the old bead","why":"New sealant will not bond to old cured silicone. It looks fine for a week and then peels. Cut the old bead out completely — it is most of the job for a reason."},
+  {"what":"Sealing a joint that is still damp","why":"Silicone will not adhere to a wet surface. After cutting out, leave the joint to dry fully, and if the wall behind is soaked, stop and find the actual leak first."},
+  {"what":"Using grout where the joint needs to move","why":"Corners and tray joints move with temperature and weight. Grout cracks there; flexible sealant does not. That is what the gap is for."}
+ ],
+ "maths":[
+  "Silicone coverage: a standard tube lays roughly 10-12 m of a 6 mm bead. The perimeter of a typical 900 × 900 mm shower tray is 3.6 m plus the enclosure uprights, so one tube usually covers it and the second is your margin for a re-run.",
+  "Curing: most sanitary sealants need around 24 hours before the shower is used. Plan the job for a day when nobody needs the shower."
+ ],
+ "outro":"If the ceiling below the bathroom is stained, the leak is likely from the waste or the supply rather than the sealant. Sealing will not fix that.",
+ "date":"2026-10-10"
+},
+{
+ "slug":"build-a-simple-workbench",
+ "title":"What you need to build a simple workbench that stays rigid",
+ "summary":"Timber, fixings and the diagonal that stops a workbench racking — sized for a 1800 x 600 mm bench.",
+ "intro":[
+  "A workbench fails in one specific way: it racks. Push it sideways and the whole frame turns into a parallelogram, because there is nothing resisting the movement.",
+  "The fix is cheap — a diagonal brace or a back panel — and the rest of the list is just timber and screws."
+ ],
+ "list_title":"The full list",
+ "list_cols":["Item","Qty","Why / note","Where"],
+ "list":[
+  ["Structural timber, 2400 x 100 x 50 mm","6","Legs, rails and aprons; standard length suits an 1800 mm bench","<a href=\"https://www.homedepot.com/s/structural%20timber%202400%20x%20100\" rel=\"nofollow\">Home Depot</a>"],
+  ["Bench top, 1800 x 600 mm","1","A solid core door or a glued-up timber top; avoid chipboard for a work surface","<a href=\"https://www.homedepot.com/s/bench%20top%201800%20x%20600\" rel=\"nofollow\">Home Depot</a>"],
+  ["Exterior wood screws, 100 mm and 65 mm","1 box each","Long screws for the frame, shorter for the top and braces","<a href=\"https://www.lowes.com/search?searchTerm=wood%20screws%20100mm%2065mm\" rel=\"nofollow\">Lowe's</a>"],
+  ["Coach bolts and washers","8","Bolted joints stay tight through vibration where screws work loose","<a href=\"https://www.acehardware.com/search?query=coach%20bolts%20washers\" rel=\"nofollow\">Ace</a>"],
+  ["Plywood back panel or diagonal brace","1 sheet or 1 length","This is what stops the racking. Do not leave it out","<a href=\"https://www.homedepot.com/s/plywood%20sheet%2018mm\" rel=\"nofollow\">Home Depot</a>"],
+  ["Wood glue","1 bottle","Glue plus screws is much stronger than screws alone","<a href=\"https://www.walmart.com/search?q=wood%20glue\" rel=\"nofollow\">Walmart</a>"],
+  ["Adjustable feet or shims","4","Almost no floor is flat; the bench should not rock","<a href=\"https://www.walmart.com/search?q=adjustable%20furniture%20feet\" rel=\"nofollow\">Walmart</a>"]
+ ],
+ "tiers":[
+  {"label":"Cheapest that works","text":"Standard structural timber and a plywood top. It will be rigid if you brace it, and it will mark easily — accept that.","retailer":"Walmart","url":"https://www.walmart.com/search?q=workbench%20kit%20timber"},
+  {"label":"Buy the good one","text":"A thicker bench top and bolted joints with a plywood back panel. A heavier top is what makes a bench pleasant to work on: it absorbs hammer blows instead of ringing.","retailer":"Home Depot","url":"https://www.homedepot.com/s/solid%20wood%20bench%20top"}
+ ],
+ "tools":["Circular saw","Drill/driver","Spirit level","Square","Tape measure","Clamps","Wood glue brush"],
+ "skip":[
+  {"what":"Skipping the back panel or diagonal brace","why":"This is the single decision that determines whether the bench is usable. Four legs and a top with square joints racks immediately under sideways load."},
+  {"what":"A chipboard or MDF top for a workbench","why":"It swells and crumbles the first time it gets wet or takes a hammer blow. Plywood or solid timber is not much more expensive and lasts far longer."},
+  {"what":"Nailing the frame instead of screwing and gluing it","why":"Nails pull out under vibration. Screws with glue, or bolts at the leg joints, are what keep a bench tight for years."}
+ ],
+ "maths":[
+  "Timber: four legs at 900 mm and four rails totalling 4.8 m for an 1800 mm bench comes to about 8.4 m of timber. At 2400 mm per length, that is 4 lengths, plus 2 for the aprons and the brace — 6 in total.",
+  "Bench height: most people are comfortable with a bench top around wrist height when standing, commonly 850-900 mm. Measure rather than copying a number — a bench at the wrong height is a bench you avoid using."
+ ],
+ "outro":"Cut and drill in a ventilated space, and check for nails or screws before cutting any reclaimed timber.",
+ "date":"2026-10-10"
+},
+{
+ "slug":"lay-a-laminate-floor",
+ "title":"What you need to lay a laminate floor over a weekend",
+ "summary":"Underlay, spacers and the expansion gap: the complete list for a 20 m² laminate floor, including the part people skip.",
+ "intro":[
+  "Laminate is a floating floor: it is not fixed down, and it expands. Almost every laminate failure is either an uneven subfloor or a missing expansion gap.",
+  "This list is sized for a 20 m² room and assumes you are laying over an existing hard floor rather than removing it."
+ ],
+ "list_title":"The full list",
+ "list_cols":["Item","Qty","Why / note","Where"],
+ "list":[
+  ["Laminate flooring packs","about 10","Packs state coverage, typically around 2.2 m²; add 10% for waste","<a href=\"https://www.homedepot.com/s/laminate%20flooring%20pack\" rel=\"nofollow\">Home Depot</a>"],
+  ["Foam or acoustic underlay","22 m² roll","Smooths minor unevenness and reduces noise","<a href=\"https://www.lowes.com/search?searchTerm=laminate%20underlay\" rel=\"nofollow\">Lowe's</a>"],
+  ["Expansion spacers","1 pack","Keeps the gap at every wall while you lay","<a href=\"https://www.acehardware.com/search?query=laminate%20expansion%20spacers\" rel=\"nofollow\">Ace</a>"],
+  ["Damp-proof membrane","22 m² roll","Only over a concrete or solid floor — essential there","<a href=\"https://www.homedepot.com/s/damp%20proof%20membrane%20floor\" rel=\"nofollow\">Home Depot</a>"],
+  ["Skirting or scotia trim","about 18 m","Covers the expansion gap at the wall","<a href=\"https://www.homedepot.com/s/scotia%20floor%20trim\" rel=\"nofollow\">Home Depot</a>"],
+  ["Door threshold bars","1 per doorway","Bridges the gap between rooms and allows movement","<a href=\"https://www.walmart.com/search?q=door%20threshold%20bar%20flooring\" rel=\"nofollow\">Walmart</a>"],
+  ["Levelling compound","1-2 bags","Only if the subfloor is out by more than the tolerance on the pack","<a href=\"https://www.walmart.com/search?q=self%20levelling%20compound\" rel=\"nofollow\">Walmart</a>"]
+ ],
+ "tiers":[
+  {"label":"Cheapest that works","text":"Thin foam underlay and a basic laminate. Honest for a low-traffic spare room; it will sound hollow and feel thin underfoot.","retailer":"Walmart","url":"https://www.walmart.com/search?q=laminate%20flooring%20underlay"},
+  {"label":"Buy the good one","text":"A thicker acoustic underlay and a laminate with a decent wear layer. The underlay is what removes the hollow click and takes up small subfloor imperfections, so it does more for how the floor feels than the board does.","retailer":"Home Depot","url":"https://www.homedepot.com/s/acoustic%20underlay%20laminate"}
+ ],
+ "tools":["Tapping block","Pull bar","Spacers","Utility knife","Hand saw or jigsaw","Tape measure","Knee pads","Pencil"],
+ "skip":[
+  {"what":"Leaving no expansion gap at the walls","why":"The floor grows with humidity. Without a gap it lifts at the middle or buckles at a doorway. The gap is not cosmetic — the skirting hides it."},
+  {"what":"Laying over an uneven concrete floor without checking","why":"Laminate flexes over humps and the joints fail. Check flatness with a long straight edge; the pack states the tolerance. Levelling compound is much cheaper than replacing a floor."},
+  {"what":"Laying laminate in a bathroom or a wet room","why":"Even water-resistant laminate has a core that swells at the edges. For a bathroom, use a product actually rated for wet areas, or a different floor entirely."}
+ ],
+ "maths":[
+  "Packs: a 20 m² room plus 10% waste is 22 m². At roughly 2.2 m² per pack that is 10 packs. Buy at least one spare pack and keep it — a discontinued board is almost impossible to match later.",
+  "Perimeter gap: allow about 10 mm at every wall for a 20 m² room, which is what the spacers are for. That is why skirting or scotia is on the list rather than optional."
+ ],
+ "outro":"Acclimatise the packs flat in the room for about 48 hours before laying. Boards laid straight from a cold store can shrink after installation and open up at the joints.",
+ "date":"2026-10-10"
+}
+]}
